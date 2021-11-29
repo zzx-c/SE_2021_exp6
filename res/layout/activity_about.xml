@@ -66,13 +66,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+        android:background="@color/accent_color_light"
         android:drawableLeft="@drawable/ic_feedback"
         android:text="@string/feedback" />
 
     <Button
         android:id="@+id/btnPlaystore"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"      
+        android:layout_height="wrap_content"
+        android:background="@color/accent_color_light"
         android:drawableLeft="@drawable/ic_other_apps"
         android:text="@string/other_apps" />
 
