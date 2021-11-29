@@ -48,7 +48,7 @@
     <string name="files_pasted">Files pasted</string>
     <string name="clipboard_is_empty">Clipboard is empty</string>
     <string name="refresh">Refresh</string>
-    <string name="copy">Copy</string>
+    <string name="copy">COPY</string>
     <string name="objects_copied_to_clipboard">Objects copied to clipboard</string>
     <string name="create_folder">Create folder</string>
     <string name="create">Create</string>
